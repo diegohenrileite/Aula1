@@ -1,2 +1,16 @@
 # Aula1
-Aula github 
+
+## para oque serve o git hub?
+
+- GitHub hospeda repositórios do Git e fornece aos desenvolvedores ferramentas para enviar um código melhor por meio das funcionalidades de linha de comando
+
+- O Github é uma “rede social dev” em que é possível armazenar e compartilhar projetos de desenvolvimento de software.
+
+ ## pontos pertinentes da aula!
+ >README.md
+>> É um arquivo de extenção.md Contém informações necessárias para entender o objetivo do projeto.
+
+>branch
+>> Branch significa, galho, ramificação. Usando branches podemos trabalhar paralelamente nos projetos sem alterar a versão principal(master)
+
+
