@@ -1,4 +1,4 @@
-# Aula1
+# resumo aula
 
 ## para oque serve o git hub?
 
@@ -12,5 +12,10 @@
 
 >branch
 >> Branch significa, galho, ramificação. Usando branches podemos trabalhar paralelamente nos projetos sem alterar a versão principal(master)
+
+>MERGE
+>> O Git merge permite que você pegue as linhas criadas a partir do Git branch e faça uma integração para a ramificação principal. é importante nota que o comando git branch cria uma nova ramificação a partir da branch que o desenvolvedor está situado
+
+
 
 
