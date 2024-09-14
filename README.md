@@ -1,4 +1,4 @@
-# resumo aula
+# resumo aula Diego Henrique da Silva leite
 
 ## para oque serve o git hub?
 
